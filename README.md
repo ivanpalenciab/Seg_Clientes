@@ -1,2 +1,2 @@
-# Seg_Clientes
-En este proyecto hacemos segmentacion de un grupo de clientes utilizando diversos algoritmos de machine learning no supervisado. 
+
+En este proyecto hacemos segmentacion de un grupo de clientes utilizando diversos algoritmos de machine learning no supervisado, escogeremos el que mejor se ajuste a nuestro conjunto de datos. Provaremos tambien el rendimiento de los modelos utilizando diferente numero de variables para entrenar el modelo. Es proyecto sera desarrollado utilizando python y sus bibliotecas para ciencias de datos Pandas, numpy,matplotlib, seborn, scikitlearn.  
